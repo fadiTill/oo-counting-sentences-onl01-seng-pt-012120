@@ -22,6 +22,7 @@ class String
   end
 
   def exclamation?
+    
 
   end
 
